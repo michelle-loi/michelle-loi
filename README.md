@@ -59,3 +59,6 @@ I’m a Full-Stack & Mobile Developer passionate about creating unique, eye-catc
 
 <a href="https://www.microsoft.com/en-ca/windows?r=1" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/176748/windows-windows.svg" width="36" height="36" alt="windows" /></a>
 <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jim-nielsen.com/macos/1024/macos-sonoma-2023-09-26.png?rf=1024" width="36" height="36" alt="macos" /></a>
+
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michelle-loi&langs_count=8)
