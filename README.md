@@ -2,7 +2,7 @@
 
 ## I Like to Make Things
 
-I’m a Full-Stack & Mobile Developer passionate about creating unique, eye-catching designs.
+I’m a software engineer passionate about creating unique, eye-catching designs.
 
 - 🌍 I'm based in Alberta, Canada
 - 🎓 I studied at the University of Calgary
